@@ -1,9 +1,9 @@
 # Creates an Audio Routes panner compliant speaker configuration for Vertigo ApS' The Wave. 
 
 # Save the output of this program to a new line in the 'coll' object in the 'Speakers' 
-# subpatcher of the Audio Routes panner. Add the name of the new speaker configuration,
-# set below, to the range/enum (inspector) attribute of the live.menu inputting to the
-# 'Speakers' subpatcher. 
+# subpatcher of the Audio Routes v1.5.1 panner. Add the name of the new speaker 
+# configuration, set below, to the range/enum (inspector) attribute of the live.menu 
+# inputting to the 'Speakers' subpatcher. 
 # alex.levinson555@gmail.com
 
 ####
